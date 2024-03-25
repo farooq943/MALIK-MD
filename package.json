@@ -1,12 +1,12 @@
 {
-  "name": "MALIK-MD",
+  "name": "FAROOQ-SINDHI",
   "version": "0.0.7",
-  "description": "Multi device whatsapp bot by malik.",
+  "description": "Multi device whatsapp bot by FAROOQ-SINDHI.",
   "main": "lib/client.js",
   "type": "commonjs",
   "license": "GPL-3.0",
   "scripts": {
-    "start": "pm2 start lib/client.js --deep-monitoring --attach --name Malik",
+    "start": "pm2 start lib/client.js --deep-monitoring --attach --name FAROOQ",
     "stop": "pm2 stop Malik"
   },
   "author": "arkhan998",
