@@ -1,7 +1,7 @@
 </p>
 <p align="center">
   <a href="[https://chat.whatsapp.com/BEhEne7RdGBC3y5vYltuxL](https://chat.whatsapp.com/DFPl94ASqoHL5jdeZ1eFJG)">
-    <img alt=Support height="400" src="https://telegra.ph/file/dce77f7538019d05afe65.jpg"> 
+    <img alt=Support height="400" src="https://telegra.ph/file/e0b8383d9e2684bfe5f84.jpg"> 
     </p>
 <p align  = center> <a href="#"><img title="MALIK-MD MULTI DEVICE" src="https://img.shields.io/badge/MALIK-MD WhatsApp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
 
