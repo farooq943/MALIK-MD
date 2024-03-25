@@ -1,7 +1,7 @@
 {
-  "name": "MALIK-MD",
+  "name": "FAROOQ-SINDHI",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://telegra.ph/file/3845ab217fafcab86ddf5.jpg",
+  "logo": "https://telegra.ph/file/e0b8383d9e2684bfe5f84.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "Malik", "Secktor","MALIK-MD","theme bot","multi device","baileys","bot"],
   "success_url": "/",
   "stack": "container",
@@ -32,7 +32,7 @@
 },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://telegra.ph/file/3845ab217fafcab86ddf5.jpg"
+     "value": "https://telegra.ph/file/e0b8383d9e2684bfe5f84.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
